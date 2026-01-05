@@ -1,0 +1,6 @@
+num1 = int(input("Masukkan nombor pertama: 4"))
+num2 = int(input("Masukkan nombor kedua: 1"))
+
+total = num1 + num2
+
+print("jumlah dua nombor ialah:", 5)
